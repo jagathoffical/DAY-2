@@ -1,0 +1,4 @@
+1.What is the difference between DOM and window object?
+
+The Document object(DOM) is your html, aspx, php, or other document that will be loaded into the browser. 
+The document actually gets loaded inside the window object and has properties available to it like title, URL, cookie, etc.
